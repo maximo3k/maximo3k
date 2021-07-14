@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maximo3k
 - 👀 I’m interested in nature, food, technology, economics and data
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently building an App in JS, Node JS and Vue
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me just send me a message here
 
